@@ -1,4 +1,4 @@
 # Prakerin
 
-Website Portofolio - Syahdan Hafiz Ashari / XI TKJ 1
-https://portofolio-pkl.netlify.app/
+Website Portofolio - Putra nanda aprizal / XI TKJ 2
+https://putrananda789.github.io/putrananda789.github.io
